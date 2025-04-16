@@ -23,4 +23,5 @@ public class RandomStringUtilsTest {
     public void testRandomWithNegativeLength() {
         RandomStringUtils.random(-1);
     }
+
 }
